@@ -1,0 +1,32 @@
+{
+  "name": "winston-buffer-mail",
+  "version": "1.0.0",
+  "description": "Winston log mail based on nodemailer. Also useful to buffers errors and send them in one email.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/machadogj/node-winston-mailer.git"
+  },
+  "keywords": [
+    "winston",
+    "email",
+    "mail",
+    "nodemailer"
+  ],
+  "author": {
+    "name": "Ritesh Arora",
+    "connection": ""
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/machadogj/node-winston-mailer/issues"
+  },
+  "homepage": "https://github.com/machadogj/node-winston-mailer#readme",
+  "devDependencies": {
+    "nodemailer": "^6.6.0",
+    "winston": "^3.3.3"
+  }
+}
