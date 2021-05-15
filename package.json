@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/machadogj/node-winston-mailer.git"
+    "url": "https://github.com/riteshdoomra88/winston-buffer-mail.git"
   },
   "keywords": [
     "winston",
@@ -22,9 +22,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/machadogj/node-winston-mailer/issues"
+    "url": "https://github.com/riteshdoomra88/winston-buffer-mail/issues"
   },
-  "homepage": "https://github.com/machadogj/node-winston-mailer#readme",
+  "homepage": "https://github.com/riteshdoomra88/winston-buffer-mail#readme",
   "devDependencies": {
     "nodemailer": "^6.6.0",
     "winston": "^3.3.3"
